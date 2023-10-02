@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**sharypoe/sharypoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! My name is Shary (pronounced 'sha-ree'), and I am a computer science student and content creator, taking one step at a time to build my version of the world. My coding projects are inspired by the courses I have taken at university, and I have many more exciting projects in the pipeline.
 
-Here are some ideas to get you started:
+📚 I am a perpetual learner, always on the lookout for new skills and focused on making daily progress rather than chasing perfection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Computer science is my passion, and I love connecting with like-minded individuals who share the same enthusiasm for technology and coding.
+
+🌟 My ultimate goal is to gain valuable hands-on training experience in a tech company, contributing my skills and learning from the best in the field.
+
+🎮 In my free time, you will often find me immersed in a good book or enjoying video games, two of my favorite pastimes.
+
+Feel free to explore my repositories, connect with me, or reach out if you share similar interests or if there is an opportunity for collaboration. Let us learn and grow together!
