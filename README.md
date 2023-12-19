@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hello! My name is Shary (pronounced 'sha-ree'), and I am a computer science student and content creator, taking one step at a time to build my version of the world. My coding projects are inspired by the courses I have taken at university, and I have many more exciting projects in the pipeline.
+👋 Hello! My name is Shary (pronounced 'sha-ree'), and I am a computer science graduate and content creator, taking one step at a time to build my version of the world. My coding projects are inspired by the courses I have taken at university, and I have many more exciting projects in the pipeline.
 
 📚 I am a perpetual learner, always on the lookout for new skills and focused on making daily progress rather than chasing perfection.
 
