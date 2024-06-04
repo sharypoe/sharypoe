@@ -6,7 +6,7 @@
 
 💻 Computer science is my passion, and I love connecting with like-minded individuals who share the same enthusiasm for technology and coding.
 
-🌟 My ultimate goal is to gain valuable hands-on training experience in a tech company, contributing my skills and learning from the best in the field.
+🌟 My ultimate goal is to gain valuable hands-on training in a tech company, contributing my skills and learning from the best in the field.
 
 🎮 In my free time, you will often find me immersed in a good book or enjoying video games!
 
